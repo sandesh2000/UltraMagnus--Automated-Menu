@@ -2,11 +2,10 @@
 
 Task Description:
 As a team of 4,we have created a command line App(UltraMagnus),which is fully automated for multiple required services in the industries,such as:
-
->Hadoop Cluster
->LVM Partitioning
->Docker containers configuration
->AWS services 
+> Hadoop Cluster
+> LVM Partitioning
+> Docker containers configuration
+> AWS services 
  
 We built a menu-driven program in python that can be useful in automation for the above-mentioned technologies. This menu program can setup multiple advanced confifurations,but the code  is written in such a way that it can be understood even by the people who don’t have prior knowledge about these technologies.
 
